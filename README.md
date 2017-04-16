@@ -7,5 +7,6 @@
 ## 程式碼
 
 - 第三章
-  - 3.2 [TensorFlow 實現 Softmax Regression 辨識手寫數字](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/mnist/mnist_softmax.py) [local](./codes/3-2.mnist_softmax.py)
+  - 3.2 TensorFlow 實現 Softmax Regression 辨識手寫數字 | [程式碼](./codes/3-2.mnist_softmax.py) | [程式碼出處](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/mnist/mnist_softmax.py) |[英文說明](https://www.tensorflow.org/get_started/mnist/beginners)
+  - ​
 
