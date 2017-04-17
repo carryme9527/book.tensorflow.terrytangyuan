@@ -1,0 +1,6 @@
+*/.ipynb_checkpoints/
+venv
+*/MNIST_data/
+
+.*.swp
+*.pyc
