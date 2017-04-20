@@ -20,8 +20,10 @@
     [書本範例](./notebook/3-2.mnist_softmax.ipynb)
     [英文說明](https://www.tensorflow.org/get_started/mnist/beginners)
   - 4.2 TensorFlow 實作 AutoEncoder
-    [程式碼出處]()
-    [本地複製]()
-    [書本範例]()
-    [英文說明]()
+    [程式碼出處](https://github.com/tensorflow/models/blob/master/autoencoder/AdditiveGaussianNoiseAutoencoderRunner.py)
+    [本地複製](./codes/4-2.AdditiveGaussianNoiseAutoencoderRunner.py)
+    [書本範例](./notebook/4-2.AdditiveGaussianNoiseAutoencoderRunner.ipynb)
 
+## 其他資源
+
+- http://blog.csdn.net/longji/article/category/6840109
