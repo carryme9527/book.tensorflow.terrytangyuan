@@ -14,15 +14,17 @@
 ## 程式碼
 
 - 第三章
-  - 3.2 TensorFlow 實作 Softmax Regression 辨識手寫數字
+  - 3.2 Softmax Regression 辨識手寫數字
     [程式碼出處](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/mnist/mnist_softmax.py)
-    [本地複製](./codes/3-2.mnist_softmax.py)
+    [本地複製](./codes/mnist_softmax.py)
     [書本範例](./notebook/3-2.mnist_softmax.ipynb)
     [英文說明](https://www.tensorflow.org/get_started/mnist/beginners)
-  - 4.2 TensorFlow 實作 AutoEncoder
+  - 4.2 AutoEncoder
     [程式碼出處](https://github.com/tensorflow/models/blob/master/autoencoder/AdditiveGaussianNoiseAutoencoderRunner.py)
-    [本地複製](./codes/4-2.AdditiveGaussianNoiseAutoencoderRunner.py)
+    [本地複製](./codes/ch4/AdditiveGaussianNoiseAutoencoderRunner.py)
     [書本範例](./notebook/4-2.AdditiveGaussianNoiseAutoencoderRunner.ipynb)
+  - 4.4 Multi-Laper Perceptron
+    [書本範例](./notebook/4-4.MLP.ipynb)
 
 ## 其他資源
 
