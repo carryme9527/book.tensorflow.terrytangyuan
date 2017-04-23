@@ -28,4 +28,6 @@
 
 ## 其他資源
 
-- http://blog.csdn.net/longji/article/category/6840109
+- 官網 http://terrytangyuan.github.io/2017/02/12/tensorflow-in-practice-book-chinese/
+- 作者專訪 http://it.sohu.com/20170226/n481761332.shtml
+- 網友筆記 http://blog.csdn.net/longji/article/category/6840109
