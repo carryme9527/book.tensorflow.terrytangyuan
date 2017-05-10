@@ -19,17 +19,26 @@
     [本地複製](./codes/ch3/mnist_softmax.py)
     [書本範例](./notebook/3-2.mnist_softmax.ipynb)
     [英文說明](https://www.tensorflow.org/get_started/mnist/beginners)
+
+- 第四章
   - 4.2 AutoEncoder
     [程式碼出處](https://github.com/tensorflow/models/blob/master/autoencoder/AdditiveGaussianNoiseAutoencoderRunner.py)
     [本地複製](./codes/ch4/AdditiveGaussianNoiseAutoencoderRunner.py)
     [書本範例](./notebook/4-2.AdditiveGaussianNoiseAutoencoderRunner.ipynb)
   - 4.4 Multi-Laper Perceptron
     [書本範例](./notebook/4-4.MLP.ipynb)
-  - 5.2 CNN
+
+- 第五章
+  - 5.2 Simple CNN
     [程式碼出處](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/mnist/mnist_deep.py)
     [本地複製](./codes/ch5/LeNet5.py)
     [書本範例](./notebook/5-2.LeNet5.ipynb)
     [英文說明](https://www.tensorflow.org/get_started/mnist/pros)
+  - 5.3 Advanced CNN
+    [程式碼出處](https://github.com/tensorflow/models/tree/master/tutorials/image/cifar10/)
+    [本地複製](./codes/ch5/cifar10/)
+    [書本範例](./notebook/5-3.deep_cnn.ipynb)
+    [英文說明](https://www.tensorflow.org/tutorials/deep_cnn)
 
 ## 其他資源
 
