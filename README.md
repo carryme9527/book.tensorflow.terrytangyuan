@@ -40,8 +40,16 @@
     [書本範例](./notebook/5-3.deep_cnn.ipynb)
     [英文說明](https://www.tensorflow.org/tutorials/deep_cnn)
 
+- 第六章
+  - 6.1 AlexNet
+    [程式碼出處](https://github.com/tensorflow/models/blob/master/tutorials/image/alexnet/alexnet_benchmark.py)
+    [本地複製](./codes/ch6/alexnet/)
+    [書本範例](./notebook/6-1.alexnet.ipynb)
+    [英文說明](https://kratzert.github.io/2017/02/24/finetuning-alexnet-with-tensorflow.html)
+
 ## 其他資源
 
 - 官網 http://terrytangyuan.github.io/2017/02/12/tensorflow-in-practice-book-chinese/
 - 作者專訪 http://it.sohu.com/20170226/n481761332.shtml
 - 網友筆記 http://blog.csdn.net/longji/article/category/6840109
+- tflearn 版本的實作 https://github.com/tflearn/tflearn/tree/master/examples/images
